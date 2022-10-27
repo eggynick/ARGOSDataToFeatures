@@ -16,3 +16,7 @@ Created on Thu Oct 27 11:14:31 2022
 ## Created: Fall 2022
 ## Author: nicholas.fairbairn@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
+
+#%% Import Packages
+import arcpy, sys, os
+
